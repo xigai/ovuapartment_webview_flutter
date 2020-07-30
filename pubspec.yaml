@@ -1,7 +1,7 @@
 name: ovuapartment_webview_flutter
 description: A Flutter plugin that provides a WebView widget on Android and iOS.
 version: 0.3.22+1-1
-homepage: https://github.com/flutter/plugins/tree/master/packages/ovuapartment_webview_flutter
+homepage: https://github.com/xigai/ovuapartment_webview_flutter
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
