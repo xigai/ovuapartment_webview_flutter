@@ -1,7 +1,5 @@
 # WebView for Flutter (Developers Preview)
 
-version: 0.3.22+1-1
-
 Thanks for [flutter.dev](https://pub.dev/publishers/flutter.dev/packages),This object base on [webview_flutter](https://pub.dartlang.org/packages/webview_flutter)
 
 A Flutter plugin that provides a WebView widget.
@@ -32,7 +30,7 @@ Opt-in to the embedded views preview by adding a boolean property to the app's `
 with the key `io.flutter.embedded_views_preview` and the value `YES`.
 
 ## Usage
-Add `webview_flutter` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
+Add `ovuapartment_webview_flutter` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
 You can now include a WebView widget in your widget tree.
 See the WebView widget's Dartdoc for more details on how to use the widget.
